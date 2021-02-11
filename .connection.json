@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "username": "sa",
+    "password": "Abcd1234.",
+    "database": "yasta",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "port":"49716"
+  },
+  "test": {
+    "username": "sa",
+    "password": "Abcd1234.",
+    "database": "database_development",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "port":"49716"
+  },
+  "production": {
+    "username": "sa",
+    "password": "Abcd1234.",
+    "database": "database_development",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "port":"49716"
+  }
+}

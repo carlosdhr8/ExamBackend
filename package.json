@@ -1,0 +1,27 @@
+{
+  "name": "pruebadev-npm",
+  "version": "1.0.0",
+  "description": "test dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Carlos Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.26.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "expressjs": "^1.0.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.4.0",
+    "sequelize-cli": "^6.2.0",
+    "tedious": "^9.2.3"
+  }
+}
